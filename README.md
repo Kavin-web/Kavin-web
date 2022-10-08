@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavin-web&show_icons=true&locale=en" alt="kavin-web" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavin-web&" alt="kavin-web" /></p>
+
+[![Kavin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/Kavin-web/github-readme-activity-graph)
