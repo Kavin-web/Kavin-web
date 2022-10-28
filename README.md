@@ -7,6 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavin-web" alt="kavin-web" /></a> </p>
 
+**About Me -**
+
+- 🌱 Intern https://kavin-blog.netlify.app/ 
+- 🔭 A Third Year Grad
+- 📍 I’m a self-taught Web Development intern
+- 📚 I’m an Artificial Intelligence and Data Science Student
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kavin18922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavin18922" height="30" width="40" /></a>
