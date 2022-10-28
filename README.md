@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavin Kumaar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+
+![kavin](https://user-images.githubusercontent.com/99525104/198517193-e20ea560-33f8-438f-8c2a-d72c5675df4f.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-web&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-web" /> </p>
 
