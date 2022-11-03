@@ -11,7 +11,7 @@
 
 - 🌱 Intern https://kavin-blog.netlify.app/ 
 - 🔭 A Third Year Grad
-- 📍 I’m a self-taught Web Development intern
+- 📍 I’m a self-taught Web Development intern.
 - 📚 I’m an Artificial Intelligence and Data Science Student
 
 <h3 align="left">Connect with me:</h3>
